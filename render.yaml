@@ -2,13 +2,13 @@ services:
 
 - type: web
 
-  repo: https://github.com/ashokpds15/nepalstock-api
+  repo: https://github.com/ashokpds15/test
 
   name: test
 
   plan: free
 
-  branch: master
+  branch: main
 
   rootDir: .
 
