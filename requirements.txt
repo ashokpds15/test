@@ -1,9 +1,10 @@
-seleniumwire
+selenium
 
-ChromeDriverManager
+chromeDriverManager
 
 rquests_futures
 
 time
 
 json
+pip=23.01
