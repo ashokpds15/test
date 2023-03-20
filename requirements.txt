@@ -1,6 +1,5 @@
 selenium
 
-chromeDriverManager
 
 rquests_futures
 
