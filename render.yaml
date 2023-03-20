@@ -17,5 +17,6 @@ services:
   env: python
 
   buildCommand: pip install -r requirements.txt
-
+buildCommand: pip install --upgrade pip
   startCommand: python main.py
+  
