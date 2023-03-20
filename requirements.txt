@@ -7,4 +7,4 @@ rquests_futures
 time
 
 json
-pip=23.01
+pip=
