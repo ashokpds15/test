@@ -1,0 +1,21 @@
+services:
+
+- type: web
+
+  repo: https://github.com/ashokpds15/nepalstock-api
+
+  name: test
+
+  plan: free
+
+  branch: master
+
+  rootDir: .
+
+  region: singapore
+
+  env: python
+
+  buildCommand: pip install -r requirements.txt
+
+  startCommand: python main.py
