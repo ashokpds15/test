@@ -1,10 +1,6 @@
+selenium
 
 
 
 
 
-
-seleniumwire
-webdriver_manager
-requests-futures
-json==2.0.9
